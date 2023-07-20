@@ -21,6 +21,8 @@ The paper for N2V2: [N2V2 -- Fixing Noise2Void Checkerboard Artifacts with Modif
 
 Source code for N2V was found here: https://github.com/juglab/n2v
 
+**If you use this notebook in your research, please cite the above papers**
+
 Pretrained models were trained using images from the following datasets:
  *  (insert credit)
  *  
