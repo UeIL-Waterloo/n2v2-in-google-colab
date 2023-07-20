@@ -15,13 +15,13 @@ This notebook supports both training your own model and predicting denoised imag
 ## Acknowledgements:
 This notebook was heavily influenced by Noise2Void (2D) by the Zero-Cost Download for Microscopy Project, found here: [Noise2Void_2D_ZeroCostDL4Mic](https://colab.research.google.com/github/HenriquesLab/ZeroCostDL4Mic/blob/master/Colab_notebooks/Noise2Void_2D_ZeroCostDL4Mic.ipynb)
 
-The original paper about N2V by Krull et. al.: [Noise2Void - Learning Denoising from Single Noisy Images](https://arxiv.org/abs/1811.10980)
+The paper about N2V by Krull et. al.: [Noise2Void - Learning Denoising from Single Noisy Images](https://arxiv.org/abs/1811.10980)
 
 The paper for N2V2: [N2V2 -- Fixing Noise2Void Checkerboard Artifacts with Modified Sampling Strategies and a Tweaked Network Architecture](https://arxiv.org/abs/2211.08512)
 
 Source code for N2V was found here: https://github.com/juglab/n2v
 
-**If you use this notebook in your research, please cite the above papers**
+**If you use this notebook in your research, please cite the above papers.**
 
 Pretrained models were trained using images from the following datasets:
  *  (insert credit)
