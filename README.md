@@ -12,8 +12,7 @@ This notebook supports both training your own model and predicting denoised imag
 **Tip:** Models work best on similar-looking data. It may work better to use a model that was trained on images that look like your images, even if the subjects are different. Likewise, you can expect your models to have better performance if your training images are similar to the images you want to denoise.
 
 ### Sample Images:
-![mitolab sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/11680329-2088-4b08-a31a-d5e400ef6c0e)    
-![t cell sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/7f456cbc-ce46-455a-ae00-541a9d8c27e6)
+![mitolab sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/11680329-2088-4b08-a31a-d5e400ef6c0e)    ![t cell sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/7f456cbc-ce46-455a-ae00-541a9d8c27e6)
 
 
 ## Acknowledgements:
