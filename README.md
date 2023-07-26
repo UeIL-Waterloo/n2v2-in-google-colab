@@ -13,7 +13,6 @@ This notebook supports both training your own model and predicting denoised imag
 
 ### Sample Images:
 ![mitolab sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/11680329-2088-4b08-a31a-d5e400ef6c0e)
-
 ## Acknowledgements:
 This notebook was heavily influenced by Noise2Void (2D) by the Zero-Cost Download for Microscopy Project, found here: [Noise2Void_2D_ZeroCostDL4Mic](https://colab.research.google.com/github/HenriquesLab/ZeroCostDL4Mic/blob/master/Colab_notebooks/Noise2Void_2D_ZeroCostDL4Mic.ipynb)
 
