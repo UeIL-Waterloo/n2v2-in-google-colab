@@ -29,8 +29,8 @@ Pretrained models were trained using images from the following datasets:
  *  mitochondria_11449: [EMPIAR-11449](https://www.ebi.ac.uk/empiar/EMPIAR-11449/)
  *  mitochondria_mitolab: [EMPIAR-11037](https://www.ebi.ac.uk/empiar/EMPIAR-11037/)
  *  mouse_brain_11415: [EMPIAR-11415](https://www.ebi.ac.uk/empiar/EMPIAR-11415/)
- *  mouse_optical_nerve_10908: [EMPIAR-10908](https://www.ebi.ac.uk/empiar/EMPIAR-10908/)
- *  mouse_optical_nerve_11239: [EMPIAR-11239](https://www.ebi.ac.uk/empiar/EMPIAR-11239/)
+ *  mouse_optic_nerve_10908: [EMPIAR-10908](https://www.ebi.ac.uk/empiar/EMPIAR-10908/)
+ *  mouse_optic_nerve_11239: [EMPIAR-11239](https://www.ebi.ac.uk/empiar/EMPIAR-11239/)
  *  t-cells_10329: [EMPIAR-10329](https://www.ebi.ac.uk/empiar/EMPIAR-10329/)
 
 <img width="368" alt="NSERC_FIP_RGB" src="https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/748f0a73-55dd-4c28-9f5a-20fb03246775">
