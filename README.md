@@ -12,8 +12,7 @@ This notebook supports both training your own model and predicting denoised imag
 **Tip:** Models work best on similar-looking data. It may work better to use a model that was trained on images that look like your images, even if the subjects are different. Likewise, you can expect your models to have better performance if your training images are similar to the images you want to denoise.
 
 ### Sample Images:
-![mitolab sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/11680329-2088-4b08-a31a-d5e400ef6c0e)    ![t cell sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/7f456cbc-ce46-455a-ae00-541a9d8c27e6)
-
+![t cell sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/7f456cbc-ce46-455a-ae00-541a9d8c27e6)
 
 ## Acknowledgements:
 This notebook was heavily influenced by Noise2Void (2D) by the Zero-Cost Download for Microscopy Project, found here: [Noise2Void_2D_ZeroCostDL4Mic](https://colab.research.google.com/github/HenriquesLab/ZeroCostDL4Mic/blob/master/Colab_notebooks/Noise2Void_2D_ZeroCostDL4Mic.ipynb)
@@ -27,7 +26,11 @@ Source code for N2V was found here: https://github.com/juglab/n2v
 **If you use this notebook in your research, please cite the above papers.**
 
 Pretrained models were trained using images from the following datasets:
+ *  mitochondria_11449: [EMPIAR-11449](https://www.ebi.ac.uk/empiar/EMPIAR-11449/)
  *  mitochondria_mitolab: [EMPIAR-11037](https://www.ebi.ac.uk/empiar/EMPIAR-11037/)
+ *  mouse_brain_11415: [EMPIAR-11415](https://www.ebi.ac.uk/empiar/EMPIAR-11415/)
+ *  mouse_optical_nerve_10908: [EMPIAR-10908](https://www.ebi.ac.uk/empiar/EMPIAR-10908/)
+ *  mouse_optical_nerve_11239: [EMPIAR-11239](https://www.ebi.ac.uk/empiar/EMPIAR-11239/)
  *  t-cells_10329: [EMPIAR-10329](https://www.ebi.ac.uk/empiar/EMPIAR-10329/)
 
 <img width="368" alt="NSERC_FIP_RGB" src="https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/748f0a73-55dd-4c28-9f5a-20fb03246775">
