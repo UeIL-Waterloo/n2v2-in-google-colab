@@ -12,8 +12,10 @@ This notebook supports both training your own model and predicting denoised imag
 **Tip:** Models work best on similar-looking data. It may work better to use a model that was trained on images that look like your images, even if the subjects are different. Likewise, you can expect your models to have better performance if your training images are similar to the images you want to denoise.
 
 ### Sample Images:
-![mitolab sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/e62a5786-b2f7-4b0f-8175-f1fa7dbf93f5)
-![t cell sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/7f456cbc-ce46-455a-ae00-541a9d8c27e6)
+![mitolab sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/ca2a76a8-b76d-4757-a731-a0c4e516ceb1)
+![10908 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/dbb60f04-8dd0-4d84-9aea-3d11efec826f)
+![11239 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/bc2e6cb3-31de-4187-91b6-654bbac42abf)
+![t cell sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/1a2b3e60-1510-4dc0-a77f-752d4dcfd9f8)
 
 ## Acknowledgements:
 This notebook was heavily influenced by Noise2Void (2D) by the Zero-Cost Download for Microscopy Project, found here: [Noise2Void_2D_ZeroCostDL4Mic](https://colab.research.google.com/github/HenriquesLab/ZeroCostDL4Mic/blob/master/Colab_notebooks/Noise2Void_2D_ZeroCostDL4Mic.ipynb)
