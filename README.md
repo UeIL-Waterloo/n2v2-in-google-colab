@@ -3,7 +3,7 @@ Noise2Void (N2V) is a deep-learning technique used to denoise images, developed 
 
 This particular notebook uses an improved version of N2V, N2V2, developed in 2022. This version eliminates the checkerboard artifacts that often result from N2V, as shown below:
 
-![diagram](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/c7e66975-e9d9-492c-bc3a-695f0b8cd5a6)
+![diagram](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/213f4241-b436-417b-9d95-7f5ba3daf57c)
 
 ## Pretrained Models:
 
