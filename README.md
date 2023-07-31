@@ -13,8 +13,7 @@ This notebook supports both training your own model and predicting denoised imag
 
 ### Sample Images:
 ![mitolab sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/ca2a76a8-b76d-4757-a731-a0c4e516ceb1)
-![10908 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/dbb60f04-8dd0-4d84-9aea-3d11efec826f)
-![11239 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/bc2e6cb3-31de-4187-91b6-654bbac42abf)
+![11415 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/e877f61f-d0e3-4f31-a3f8-bd1236d6ec2e)
 ![t cell sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/1a2b3e60-1510-4dc0-a77f-752d4dcfd9f8)
 
 ## Acknowledgements:
@@ -33,7 +32,7 @@ Pretrained models were trained using images from the following datasets:
  *  mitochondria_mitolab: [EMPIAR-11037](https://www.ebi.ac.uk/empiar/EMPIAR-11037/)
  *  mouse_brain_11415: [EMPIAR-11415](https://www.ebi.ac.uk/empiar/EMPIAR-11415/)
  *  mouse_optic_nerve_10908: [EMPIAR-10908](https://www.ebi.ac.uk/empiar/EMPIAR-10908/)
- *  mouse_optic_nerve_11239: [EMPIAR-11239](https://www.ebi.ac.uk/empiar/EMPIAR-11239/)
+ *  mouse_optic_nerve_mix: [EMPIAR-11237](https://www.ebi.ac.uk/empiar/EMPIAR-11237/), [EMPIAR-11238](https://www.ebi.ac.uk/empiar/EMPIAR-11238/), [EMPIAR-11239](https://www.ebi.ac.uk/empiar/EMPIAR-11239/), [EMPIAR-11240](https://www.ebi.ac.uk/empiar/EMPIAR-11240/)
  *  t-cells_10329: [EMPIAR-10329](https://www.ebi.ac.uk/empiar/EMPIAR-10329/)
 
 <img width="368" alt="NSERC_FIP_RGB" src="https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/748f0a73-55dd-4c28-9f5a-20fb03246775">
