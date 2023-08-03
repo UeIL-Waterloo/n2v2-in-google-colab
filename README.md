@@ -30,6 +30,7 @@ Source code for N2V was found here: https://github.com/juglab/n2v
 **If you use this notebook in your research, please cite the above papers.**
 
 Pretrained models were trained using images from the following datasets:
+ *  C.reinhardtii_10870: [EMPIAR-10870](https://www.ebi.ac.uk/empiar/EMPIAR-10870/)
  *  mitochondria_11449: [EMPIAR-11449](https://www.ebi.ac.uk/empiar/EMPIAR-11449/)
  *  mitochondria_mitolab: [EMPIAR-11037](https://www.ebi.ac.uk/empiar/EMPIAR-11037/)
  *  mouse_brain_11415: [EMPIAR-11415](https://www.ebi.ac.uk/empiar/EMPIAR-11415/)
