@@ -3,7 +3,7 @@ Noise2Void (N2V) is a deep-learning technique used to denoise images, developed 
 
 This particular notebook uses an improved version of N2V, N2V2, developed in 2022. This version eliminates the checkerboard artifacts that often result from N2V, as shown below:
 
-![diagram](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/4947846b-b158-4107-94e0-8398988c3cf0)
+![diagram](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/f0f78411-7f4f-4982-a529-3e6570933a8b)
 
 ## Pretrained Models:
 
@@ -12,6 +12,7 @@ This notebook supports both training your own model and predicting denoised imag
 **Tip:** Models work best on similar-looking data. It may work better to use a model that was trained on images that look like your images, even if the subjects are different. Likewise, you can expect your models to have better performance if your training images are similar to the images you want to denoise.
 
 ### Sample Images:
+![10870 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/e836c1fa-cc57-41fa-ba99-b760538bcbbb)
 ![11449 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/ed2e53c9-6e62-4bba-bb35-d87e5ed3251e)
 ![mitolab sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/ca2a76a8-b76d-4757-a731-a0c4e516ceb1)
 ![11415 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/e877f61f-d0e3-4f31-a3f8-bd1236d6ec2e)
