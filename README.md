@@ -1,3 +1,4 @@
+
 # n2v2-in-google-colab
 Noise2Void (N2V) is a deep-learning technique used to denoise images, developed by Krull et. al. in 2019. It is unique from other deep-learning techniques in that it is self-supervised, so sets of high- and low- noise images are not required for training. As such, it lends itself well to use for microscopy images, where multiple high signal-to-noise ratio images are not often feasible.
 
@@ -12,12 +13,12 @@ This notebook supports both training your own model and predicting denoised imag
 **Tip:** Models work best on similar-looking data. It may work better to use a model that was trained on images that look like your images, even if the subjects are different. Likewise, you can expect your models to have better performance if your training images are similar to the images you want to denoise.
 
 ### Sample Images:
-![10870 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/e836c1fa-cc57-41fa-ba99-b760538bcbbb)
-![11449 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/ed2e53c9-6e62-4bba-bb35-d87e5ed3251e)
-![mitolab sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/ca2a76a8-b76d-4757-a731-a0c4e516ceb1)
-![11415 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/e877f61f-d0e3-4f31-a3f8-bd1236d6ec2e)
-![11237 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/e963e77c-c961-4ff6-b08e-bd81ee4a2ed2)
-![t cell sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/a454f43a-119c-4827-9d65-0d27a194aebe)
+![10870 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/c3975627-71a1-459e-adc1-17f78b5c3786)
+![11449 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/127d1522-b13c-42dc-a46c-5665f2243483)
+![mitolab sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/dc64f69a-c95a-45b6-8477-9abda3207f75)
+![11415 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/391f16a6-09ca-44a9-bf1d-608b2f91038f)
+![11237 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/f5a0b78b-711c-450d-b5e3-cb8cbd0e349e)
+![t cell sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/be4f1d19-aaca-49f1-b841-afca1ca29337)
 
 ## Acknowledgements:
 This notebook was heavily influenced by Noise2Void (2D) by the Zero-Cost Download for Microscopy Project, found here: [Noise2Void_2D_ZeroCostDL4Mic](https://colab.research.google.com/github/HenriquesLab/ZeroCostDL4Mic/blob/master/Colab_notebooks/Noise2Void_2D_ZeroCostDL4Mic.ipynb)
