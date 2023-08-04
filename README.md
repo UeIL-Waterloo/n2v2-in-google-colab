@@ -17,7 +17,7 @@ This notebook supports both training your own model and predicting denoised imag
 ![mitolab sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/ca2a76a8-b76d-4757-a731-a0c4e516ceb1)
 ![11415 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/e877f61f-d0e3-4f31-a3f8-bd1236d6ec2e)
 ![11237 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/e963e77c-c961-4ff6-b08e-bd81ee4a2ed2)
-![t cell sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/c1c80e72-8cd2-41b5-88b4-2855862da164)
+![t cell sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/a454f43a-119c-4827-9d65-0d27a194aebe)
 
 ## Acknowledgements:
 This notebook was heavily influenced by Noise2Void (2D) by the Zero-Cost Download for Microscopy Project, found here: [Noise2Void_2D_ZeroCostDL4Mic](https://colab.research.google.com/github/HenriquesLab/ZeroCostDL4Mic/blob/master/Colab_notebooks/Noise2Void_2D_ZeroCostDL4Mic.ipynb)
