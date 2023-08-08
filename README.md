@@ -15,6 +15,7 @@ This notebook supports both training your own model and predicting denoised imag
 **Tip:** Models work best on similar-looking data. It may work better to use a model that was trained on images that look like your images, even if the subjects are different. Likewise, you can expect your models to have better performance if your training images are similar to the images you want to denoise.
 
 ### Sample Images:
+![10533 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/a5ef43bd-36d3-4327-aea6-f04ea9559150)
 ![10870 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/c3975627-71a1-459e-adc1-17f78b5c3786)
 ![11449 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/127d1522-b13c-42dc-a46c-5665f2243483)
 ![mitolab sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/dc64f69a-c95a-45b6-8477-9abda3207f75)
@@ -35,6 +36,7 @@ Source code for N2V was found here: https://github.com/juglab/n2v
 **If you use this notebook in your research, please cite the above papers.**
 
 Pretrained models were trained using images from the following datasets:
+ *  alveolar_stem_cells_10533: [EMPIAR-10533](https://www.ebi.ac.uk/empiar/EMPIAR-10533/)
  *  C.reinhardtii_10870: [EMPIAR-10870](https://www.ebi.ac.uk/empiar/EMPIAR-10870/)
  *  mitochondria_11449: [EMPIAR-11449](https://www.ebi.ac.uk/empiar/EMPIAR-11449/)
  *  mitochondria_mitolab: [EMPIAR-11037](https://www.ebi.ac.uk/empiar/EMPIAR-11037/)
