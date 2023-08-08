@@ -5,6 +5,8 @@ This particular notebook uses an improved version of N2V, N2V2, developed in 202
 
 ![diagram](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/8f0d7623-b8ad-4565-b253-5919cc9e0e3c)
 
+For a rundown on N2V2 and a tutorial on how to use this notebook, see [this slideshow.](https://drive.google.com/file/d/1jaluUGUYpuHHOW_w7GgH9lleAdG9Fa1R/view?usp=drive_link)
+
 ## Pretrained Models:
 
 This notebook supports both training your own model and predicting denoised images. If you do not have the data to train a model, you can still use this notebook! I have included some preloaded models trained on specific subjects. You can peruse the selection in the "pretrained models" directory above, and they will be made available to you when you load the notebook. To use one, please follow the instructions in the notebook :) 
