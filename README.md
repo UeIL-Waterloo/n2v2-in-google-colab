@@ -38,6 +38,7 @@ Pretrained models were trained using images from the following datasets:
  *  mouse_brain_11415: [EMPIAR-11415](https://www.ebi.ac.uk/empiar/EMPIAR-11415/)
  *  mouse_optic_nerve_steyer-mobius: [EMPIAR-11214](https://www.ebi.ac.uk/empiar/EMPIAR-112124/), [EMPIAR-11215](https://www.ebi.ac.uk/empiar/EMPIAR-11215/), [EMPIAR-11216](https://www.ebi.ac.uk/empiar/EMPIAR-11216/), [EMPIAR-11219](https://www.ebi.ac.uk/empiar/EMPIAR-11219/), [EMPIAR-11220](https://www.ebi.ac.uk/empiar/EMPIAR-11220/), [EMPIAR-11237](https://www.ebi.ac.uk/empiar/EMPIAR-11237/), [EMPIAR-11238](https://www.ebi.ac.uk/empiar/EMPIAR-11238/), [EMPIAR-11239](https://www.ebi.ac.uk/empiar/EMPIAR-11239/), [EMPIAR-11240](https://www.ebi.ac.uk/empiar/EMPIAR-11240/)
  *  t-cells_10329: [EMPIAR-10329](https://www.ebi.ac.uk/empiar/EMPIAR-10329/)
+ *  villi_10967: [EMPIAR-10967](https://www.ebi.ac.uk/empiar/EMPIAR-10967/)
 
 <img width="368" alt="NSERC_FIP_RGB" src="https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/748f0a73-55dd-4c28-9f5a-20fb03246775">
 
