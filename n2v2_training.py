@@ -20,7 +20,7 @@ import sys
 ##Ignore warnings
 if not sys.warnoptions:
   import warnings
-  warnings.simplefilter('ignore')
+  warnings.filterwarnings('ignore')
 
 ## create file directories
 #replace fields with the names of your folders
