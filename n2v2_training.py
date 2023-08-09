@@ -8,7 +8,7 @@ Created on Tue Jul 18 14:25:17 2023
 
 # run training by importing both n2v2_job_script.sh and n2v2_training.py to the project directory, then run the following:
 # cd $project
-# sbatch n2v2_job_script.py
+# sbatch n2v2_job_script.sh
 
 ##Import key dependencies:
 import tensorflow
