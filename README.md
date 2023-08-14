@@ -12,20 +12,23 @@ For a rundown on N2V2 and a tutorial on how to use this notebook, see [this slid
 
 This notebook supports both training your own model and predicting denoised images. If you do not have the data to train a model, you can still use this notebook! I have included some preloaded models trained on specific subjects. You can peruse the selection in the "pretrained models" directory above, and they will be made available to you when you load the notebook. To use one, please follow the instructions in the notebook :) 
 
+I have included the source code used to train the pretrained models, which were trained using Compute Canada's Cedar and Graham clusters. Models were trained using dataset sizes and parameters larger than the notebook version can handle. If you want to train your own models externally, I found that both clusters named work well, with similar performance.  
+
 **Tip:** Models work best on similar-looking data. It may work better to use a model that was trained on images that look like your images, even if the subjects are different. Likewise, you can expect your models to have better performance if your training images are similar to the images you want to denoise.
 
 ### Sample Images:
-![10533 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/a5ef43bd-36d3-4327-aea6-f04ea9559150)
-![10870 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/c3975627-71a1-459e-adc1-17f78b5c3786)
-![11449 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/127d1522-b13c-42dc-a46c-5665f2243483)
-![mitolab sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/dc64f69a-c95a-45b6-8477-9abda3207f75)
-![11415 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/391f16a6-09ca-44a9-bf1d-608b2f91038f)
-![11237 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/f5a0b78b-711c-450d-b5e3-cb8cbd0e349e)
-![t cell sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/be4f1d19-aaca-49f1-b841-afca1ca29337)
-![10967 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/aeef30c6-6fce-45f0-870f-1a21e4e63974)
+![10533 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/8d9c82a7-d9b8-413c-b5ce-c6e61f3e930f)
+![10870 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/81712daf-35ed-4bdd-8c77-4c05e93ae54c)
+![11449 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/adf36b62-4084-4557-834e-207c238fbe54)
+![mitolab sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/a145e76a-9e09-440e-8610-0d8f19d7aee2)
+![11415 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/255ae64c-e769-4617-917c-fd424fad7fc5)
+![11237 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/ce3ce087-9544-47f7-814f-6ef28e5a4cb3)
+![t cell sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/e798355f-2cd8-4869-a0c9-1284675242cb)
+![10967 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/9504adb1-a022-46b7-a800-f5cbb36acb42)
 
 ## Acknowledgements:
 This notebook was heavily influenced by Noise2Void (2D) by the Zero-Cost Download for Microscopy Project, found here: [Noise2Void_2D_ZeroCostDL4Mic](https://colab.research.google.com/github/HenriquesLab/ZeroCostDL4Mic/blob/master/Colab_notebooks/Noise2Void_2D_ZeroCostDL4Mic.ipynb)
+
 
 The paper about N2V by Krull et. al.: [Noise2Void - Learning Denoising from Single Noisy Images](https://arxiv.org/abs/1811.10980)
 
