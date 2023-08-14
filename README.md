@@ -1,7 +1,7 @@
 # n2v2-in-google-colab
 Noise2Void (N2V) is a deep-learning technique used to denoise images, developed by Krull et. al. in 2019. It is unique from other deep-learning techniques in that it is self-supervised, so sets of high- and low- noise images are not required for training. As such, it lends itself well to use for microscopy images, where multiple high signal-to-noise ratio images are not often feasible.
 
-This particular notebook uses an improved version of N2V, N2V2, developed in 2022. This version eliminates the checkerboard artifacts that often result from N2V, as shown below:
+This particular notebook uses an improved version of N2V, N2V2, developed in 2022. This version eliminates the checkerboard artifacts that often result from N2V, as shown below: 
 
 ![diagram](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/8f0d7623-b8ad-4565-b253-5919cc9e0e3c)
 
