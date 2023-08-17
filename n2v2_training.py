@@ -10,14 +10,14 @@ Created on Tue Jul 18 14:25:17 2023
 # cd $project
 # sbatch n2v2_job_script.sh
 
-##Import key dependencies:
+## Import key dependencies:
 import tensorflow
 from n2v.models import N2VConfig, N2V
 from n2v.internals.N2V_DataGenerator import N2V_DataGenerator
 import os
 import sys
 
-##Ignore warnings
+## Ignore warnings
 if not sys.warnoptions:
   import warnings
   warnings.filterwarnings('ignore')
@@ -41,7 +41,7 @@ initial_learning_rate = 0.0004
 percent_validation = 10
 data_augmentation = False
 
-# Prepare data and model for training:
+## Prepare data and model for training:
 patch_dims = (patch_size, patch_size)
 patches = datagen.generate_patches_from_list(imgs, shape=patch_dims, augment=data_augmentation)
 patch_shape = patches.shape
@@ -59,11 +59,11 @@ config = N2VConfig(X, unet_kern_size=3,
 
 model = N2V(config=config, name=model_name, basedir=model_results)
 
-#Train model:
+## Train model:
 history = model.train(X, X_Val)
 
 model.export_TF(name='N2V2',
-                description='Pretrained N2V2 model for N2V2 image denoising',
-                authors=['Grace_T'],
+                description='Pretrained N2V2 model for image denoising',
+                authors=['User'],
                 test_img=X_Val[0,...,0], axes='YX',
                 patch_shape=patch_dims)
