@@ -4,10 +4,10 @@
 #SBATCH --ntasks-per-node=8
 #SBATCH --gpus-per-node=1
 #SBATCH --time=0:30:0    
-#SBATCH --mail-user=<s3tseng@uwaterloo.ca>
+#SBATCH --mail-user=<##your email here##>
 #SBATCH --mail-type=ALL
 
-cd ~/$projects/s3tseng
+cd ~/$projects/##username
 module purge
 module load python/3.10 scipy-stack
 virtualenv --no-download ~/n2v2
