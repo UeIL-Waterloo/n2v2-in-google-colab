@@ -6,7 +6,7 @@ This particular notebook uses an improved version of N2V, N2V2, developed in 202
 ![diagram](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/8f0d7623-b8ad-4565-b253-5919cc9e0e3c)
 
 
-For a rundown on N2V2 and a tutorial on how to use this notebook, see [this slideshow.](https://drive.google.com/file/d/1zVN9yAHxPEt3SDd98zo1HEB0rJ1jbWHn/view?usp=drive_link)
+For a rundown on N2V2 and a tutorial on how to use this notebook, see [this slideshow.](https://drive.google.com/file/d/1fbq-5iwfQrs78SXWuB9p-bJoWttV86AJ/view?usp=sharing)
 
 ## Pretrained Models:
 
