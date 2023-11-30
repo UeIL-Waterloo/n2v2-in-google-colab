@@ -26,7 +26,7 @@ I have included the source code used to train the pretrained models, which were 
 ![t cell sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/e798355f-2cd8-4869-a0c9-1284675242cb)
 ![10967 sample](https://github.com/gracefacetseng/n2v2-in-google-colab/assets/132942058/9504adb1-a022-46b7-a800-f5cbb36acb42)
 
-## Acknowledgements:
+## References:
 This notebook was heavily influenced by Noise2Void (2D) by the Zero-Cost Download for Microscopy Project, found here: [Noise2Void_2D_ZeroCostDL4Mic](https://colab.research.google.com/github/HenriquesLab/ZeroCostDL4Mic/blob/master/Colab_notebooks/Noise2Void_2D_ZeroCostDL4Mic.ipynb)
 
 
